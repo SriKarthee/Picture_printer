@@ -14,12 +14,12 @@ This Python script converts an image into ASCII art, where each pixel is represe
 **Prerequisites**
 **Ensure you have the following installed:**
 
--Python 3.x
--OpenCV (cv2)
--NumPy
+*Python 3.x
+*OpenCV (cv2)
+*NumPy
 
 **Execution**
-1.Run the picture_print.py file.
-2.You can directly pass the imagepath,whether it can be absolute or relative following with the compilation cmd
+*1.Run the picture_print.py file.
+*2.You can directly pass the imagepath,whether it can be absolute or relative following with the compilation cmd
 Ex: python picture_print.py /image_path.type
-3.If no argument is passed it takes the sample_image.png as default , so ensure that atleast that file exist in the same directory.
+*3.If no argument is passed it takes the sample_image.png as default , so ensure that atleast that file exist in the same directory.
